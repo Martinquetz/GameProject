@@ -1,5 +1,20 @@
 [
   {
+    "id": 0,
+    "name": "main",
+    "c1": 1,
+    "c2": 2,
+    "c3": 3,
+    "story": "Welcome to Earthrealm & thank you for electing to save the world, your bravery will be highly rewarded. Collect all three colored gems to save the world from the evil of Lord Vladimitin!",
+    "nav": "enter 1 to go to The Great North path or 2 to go to the Rainforest Cove path or 3 to go to the Deadly Desert of Doom path",
+    "die": "",
+    "win": "",
+    "stranger": "",
+    "luck": "",
+    "weather": "",
+    "fight": ""
+  },
+  {
     "id": 1,
     "name": "The Great North",
     "c1": 4,
@@ -10,7 +25,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 2,
@@ -23,7 +40,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 2
+    "luck": 2,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 3,
@@ -36,7 +55,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 0
+    "luck": 1,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 4,
@@ -49,7 +70,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 2,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 5,
@@ -62,7 +85,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 3
+    "luck": 2,
+    "weather": 1,
+    "fight": 0
   },
   {
     "id": 6,
@@ -75,7 +100,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 2
+    "luck": 1,
+    "weather": 1,
+    "fight": 0
   },
   {
     "id": 7,
@@ -88,7 +115,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 2,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 8,
@@ -101,7 +130,9 @@
     "die": 1,
     "win": 0,
     "stranger": 0,
-    "luck": 2
+    "luck": 0,
+    "weather": 1,
+    "fight": 0
   },
   {
     "id": 9,
@@ -114,7 +145,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 10,
@@ -125,9 +158,11 @@
     "story": "Hurray!! You found one gem, the mission is just partly done",
     "nav": "enter 1 to go to RFC or 2 to DDD or 3 to Cave of Wisdom",
     "die": 0,
-    "win": 1,
+    "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 1,
+    "weather": 1,
+    "fight": 0
   },
   {
     "id": 11,
@@ -140,7 +175,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 0
+    "luck": 1,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 12,
@@ -153,7 +190,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "weather": 1,
+    "fight": 0
   },
   {
     "id": 13,
@@ -166,7 +205,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 3
+    "luck": 0,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 14,
@@ -179,7 +220,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 2,
+    "weather": 0,
+    "fight": 1
   },
   {
     "id": 15,
@@ -192,7 +235,9 @@
     "die": 1,
     "win": 0,
     "stranger": 1,
-    "luck": 2
+    "luck": 2,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 16,
@@ -205,7 +250,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 0,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 17,
@@ -216,9 +263,11 @@
     "story": "Hurray!! You found one gem, the mission is just partly done",
     "nav": "enter 1 to go to TGN or 2 to DDD or 3 to Meteora",
     "die": 0,
-    "win": 1,
+    "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "weather": 0,
+    "fight": 1
   },
   {
     "id": 18,
@@ -231,7 +280,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 1,
+    "weather": 0,
+    "fight": 1
   },
   {
     "id": 19,
@@ -244,7 +295,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 0
+    "luck": 0,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 20,
@@ -257,7 +310,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 3
+    "luck": 2,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 21,
@@ -270,7 +325,9 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 2
+    "luck": 2,
+    "weather": 0,
+    "fight": 0
   },
   {
     "id": 22,
@@ -280,10 +337,12 @@
     "c3": "",
     "story": "With the help of the dwarfs you can give these orcs a good fight",
     "nav": "",
-    "die": 1,
+    "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 1,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 23,
@@ -296,7 +355,9 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 3
+    "luck": 1,
+    "weather": 1,
+    "fight": 1
   },
   {
     "id": 24,
@@ -307,8 +368,10 @@
     "story": "Hurray!! You found one gem, the mission is just partly done",
     "nav": "enter 1 to go to RFC or 2 to TGN or 3 to Belge Armoury",
     "die": 0,
-    "win": 1,
+    "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 0,
+    "weather": 0,
+    "fight": 0
   }
 ]
